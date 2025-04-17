@@ -1,9 +1,6 @@
 ### Welcome to EF-2000Block10T2' Github page
 <hr />
-<video autoplay loop muted playsinline width="100%" height="auto">
-  <source src="https://raw.githubusercontent.com/EF-2000Block10T2/EF-2000Block10T2/main/cyberpunk-2077-city-wallpaperwaifu-com.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/114lpx?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 <hr />
 <h3 align="left">About me:</h3> <br />
