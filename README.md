@@ -1,6 +1,5 @@
 ### Welcome to EF-2000Block10T2' Github page
 <hr />
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/114lpx?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 <hr />
 <h3 align="left">About me:</h3> <br />
