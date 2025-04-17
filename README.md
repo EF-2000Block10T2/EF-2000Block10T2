@@ -1,6 +1,6 @@
 ### Welcome to EF-2000Block10T2' Github page
 <hr />
-<img src="https://github.com/EF-2000Block10T2/EF-2000Block10T2/blob/main/shot 2025.03.13 21.47.39.jpg" />
+<img src="https://github.com/EF-2000Block10T2/EF-2000Block10T2/blob/main/War Thunder Screenshot 2025.03.06 - 16.36.13.63.png" />
 <hr />
 <h3 align="left">About me:</h3> <br />
     - I am EF2000Block10T2, a Java web developer. <br />
