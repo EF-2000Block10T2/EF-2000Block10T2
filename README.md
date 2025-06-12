@@ -3,7 +3,7 @@
 <img src="https://github.com/EF-2000Block10T2/EF-2000Block10T2/blob/main/War Thunder Screenshot 2025.03.06 - 16.36.13.63.png" />
 <hr />
 <h3 align="left">About me:</h3> <br />
-    - I am EF2000Block10T2, a Java web developer. <br />
+    - I am EF2000Block10T2, a Web developer. <br />
     - I am currently a <a href="https://caodang.fpt.edu.vn/">FPT Polytechinc College</a> student. <br /> 
     - My favourite IDE are IntelliJ, VSC and Azure Data Studio. <br />
     - I mostly make websites for assignment Projects. <br />
@@ -33,6 +33,14 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</a>
+
+
 </p>
 <hr />
 <h3 align="left">📊 GitHub Stats:</h3>
@@ -41,9 +49,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EF-2000Block10T2&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=500"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EF-2000Block10T2&theme=dracula&show_icons=true&hide_border=true&count_private=true&card_width=500"/>
 
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
